@@ -1,11 +1,11 @@
-About pywaterml
-===============
+About pywaterml-feedstock
+=========================
+
+Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/pywaterml-feedstock/blob/main/LICENSE.txt)
 
 Home: https://github.com/romer8/pywaterml
 
 Package license: BSD-3-Clause
-
-Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/pywaterml-feedstock/blob/main/LICENSE.txt)
 
 Summary: The pywaterml is a package that lets you handle WaterML functions such as GetValues, GetSitesInfo, etc. In addition it lets offers extra functions such as mean interpolation for data with gaps
 
